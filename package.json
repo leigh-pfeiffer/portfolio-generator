@@ -1,5 +1,23 @@
 {
   "dependencies": {
-    "chalk": "^5.0.0"
-  }
+    "chalk": "^5.0.0",
+    "inquirer": "^8.2.0"
+  },
+  "name": "portfolio-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leigh-pfeiffer/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leigh-pfeiffer/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/leigh-pfeiffer/portfolio-generator#readme"
 }
